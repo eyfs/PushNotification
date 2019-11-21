@@ -1,5 +1,5 @@
 <?php
-namespace Edujugon\PushNotification;
+namespace eyfs\PushNotification;
 
 use Edujugon\PushNotification\Contracts\PushServiceInterface;
 use Illuminate\Support\Arr;
