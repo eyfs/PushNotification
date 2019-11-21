@@ -3,10 +3,10 @@
 namespace Edujugon\PushNotification\Providers;
 
 use Edujugon\PushNotification\PushNotification;
-use Illuminate\Contracts\Support\DeferrableProvider;
 use Illuminate\Support\ServiceProvider;
 
-class PushNotificationServiceProvider extends ServiceProvider implements DeferrableProvider
+//  implements DeferrableProvider removed for Laravel 5.5 compatibility
+class PushNotificationServiceProvider extends ServiceProvider
 {
     /**
      * Bootstrap the application services.
