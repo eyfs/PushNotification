@@ -1,5 +1,5 @@
 <?php
-namespace eyfs\PushNotification;
+namespace Edujugon\PushNotification;
 
 class PushNotification
 {

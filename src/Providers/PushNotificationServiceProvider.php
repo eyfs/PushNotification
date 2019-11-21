@@ -1,6 +1,6 @@
 <?php
 
-namespace eyfs\PushNotification\Providers;
+namespace Edujugon\PushNotification\Providers;
 
 use Edujugon\PushNotification\PushNotification;
 use Illuminate\Contracts\Support\DeferrableProvider;

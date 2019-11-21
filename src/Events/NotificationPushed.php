@@ -1,6 +1,6 @@
 <?php
 
-namespace eyfs\PushNotification\Events;
+namespace Edujugon\PushNotification\Events;
 
 use Edujugon\PushNotification\PushNotification;
 use Illuminate\Broadcasting\InteractsWithSockets;

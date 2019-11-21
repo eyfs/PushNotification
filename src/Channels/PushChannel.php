@@ -1,5 +1,5 @@
 <?php
-namespace eyfs\PushNotification\Channels;
+namespace Edujugon\PushNotification\Channels;
 
 use Edujugon\PushNotification\Events\NotificationPushed;
 use Edujugon\PushNotification\Messages\PushMessage;
